@@ -1,2 +1,5 @@
 # YOLOv4-Object-Detection
-Real time object detection using YOLOv4 in Google Colab
+Real time object detection using Scaled-YOLOv4 in Google Colab
+
+### Reference
+Official Scaled-YOLOv4 Paper: [Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://arxiv.org/pdf/2011.08036.pdf)
